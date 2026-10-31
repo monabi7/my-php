@@ -1,3 +1,4 @@
 <?php
 echo "hello dear git kos";
-ERA_YEAR
+echo "by";
+echo "test";
